@@ -139,11 +139,12 @@
 /* Keys */
 #define PERMISSIVE_HOLD
 
-#define FORCE_NKRO
-
 #undef IGNORE_MOD_TAP_INTERRUPT
 
 #define TAPPING_TOGGLE 2
 
 #define COMBO_COUNT 13
 #define COMBO_TERM 40
+
+/* Via */
+#define DYNAMIC_KEYMAP_LAYER_COUNT 2
